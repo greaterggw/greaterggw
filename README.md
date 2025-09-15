@@ -10,12 +10,12 @@ My journey in data analytics and machine learning has fueled my passion for solv
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Data Analytics and Machine Learning           | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
-| Data Wrangling and Cleaning                   | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
-| Price Prediction Models                       | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
+| Data Wrangling and Cleaning                   | [CHRISTUS Health Pricing Analysis](https://github.com/greaterggw/Cross-Country-Healthcare-Pricing-Analytics-CHRISTUS-Health) |
+| Price Prediction Models                       | [CHRISTUS Health Pricing Analysis](https://github.com/greaterggw/Cross-Country-Healthcare-Pricing-Analytics-CHRISTUS-Health) |
 | Natural Language Processing (NLP)             | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
 | Sentiment Analysis using Twitter Data         | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
-| Clustering and Similarity Analysis            | [CHRISTUS Health Product Matching](https://www.linkedin.com/in/jeremyokocha/) |
-| Python for Data Science                       | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
+| Clustering and Similarity Analysis            | [CHRISTUS Health Product Matching](https://github.com/greaterggw/Cross-Country-Healthcare-Pricing-Analytics-CHRISTUS-Health) |
+| Python for Data Science                       | [CHRISTUS Health Pricing Analysis](https://github.com/greaterggw/Cross-Country-Healthcare-Pricing-Analytics-CHRISTUS-Health) |
 | Image Processing and Signature Recognition    | [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project) |
 | Machine Learning for Pattern Recognition      | [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project) |
 
@@ -57,5 +57,5 @@ My journey in data analytics and machine learning has fueled my passion for solv
 
 ## Projects
 - [Movie Ratings and Box Office Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis)
-- [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/)
+- [CHRISTUS Health Pricing Analysis](https://github.com/greaterggw/Cross-Country-Healthcare-Pricing-Analytics-CHRISTUS-Health)
 - [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project)
