@@ -9,15 +9,15 @@ My journey in data analytics and machine learning has fueled my passion for solv
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Analytics and Machine Learning           | [Movie Ratings Analysis](https://www.linkedin.com/in/jeremyokocha/) |
+| Data Analytics and Machine Learning           | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
 | Data Wrangling and Cleaning                   | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
 | Price Prediction Models                       | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
-| Natural Language Processing (NLP)             | [Movie Ratings Analysis](https://www.linkedin.com/in/jeremyokocha/) |
-| Sentiment Analysis using Twitter Data         | [Movie Ratings Analysis](https://www.linkedin.com/in/jeremyokocha/) |
+| Natural Language Processing (NLP)             | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
+| Sentiment Analysis using Twitter Data         | [Movie Ratings Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis) |
 | Clustering and Similarity Analysis            | [CHRISTUS Health Product Matching](https://www.linkedin.com/in/jeremyokocha/) |
 | Python for Data Science                       | [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/) |
-| Image Processing and Signature Recognition    | [Signature Recognition Project](https://www.linkedin.com/in/jeremyokocha/) |
-| Machine Learning for Pattern Recognition      | [Signature Recognition Project](https://www.linkedin.com/in/jeremyokocha/) |
+| Image Processing and Signature Recognition    | [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project) |
+| Machine Learning for Pattern Recognition      | [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project) |
 
 
 
@@ -56,6 +56,6 @@ My journey in data analytics and machine learning has fueled my passion for solv
 </div>
 
 ## Projects
-- [Movie Ratings and Box Office Analysis](https://www.linkedin.com/in/jeremyokocha/)
+- [Movie Ratings and Box Office Analysis](https://github.com/greaterggw/Movie-Ratings-Box-Office-Analysis)
 - [CHRISTUS Health Pricing Analysis](https://www.linkedin.com/in/jeremyokocha/)
-- [Signature Recognition Project](https://www.linkedin.com/in/jeremyokocha/)
+- [Signature Recognition Project](https://github.com/greaterggw/Signature-Recognition-Project)
