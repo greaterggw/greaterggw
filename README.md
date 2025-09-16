@@ -8,6 +8,9 @@
 <a href="https://github.com/greaterggw">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="mailto:okocha.jeremy@outlook.com?subject=Hello%20Jeremy">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
 
 **Data & ML practitioner (MSBA, UT Arlington)** • Turning raw data into decisions with Python, NLP, and predictive modeling.
 
